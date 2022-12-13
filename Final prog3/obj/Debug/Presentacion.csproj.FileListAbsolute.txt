@@ -1,0 +1,59 @@
+C:\Users\ariel\source\repos\MANTEMIENTO_PRODUCTO\bin\Debug\MANTEMIENTO_PRODUCTO.exe.config
+C:\Users\ariel\source\repos\MANTEMIENTO_PRODUCTO\bin\Debug\MANTEMIENTO_PRODUCTO.exe
+C:\Users\ariel\source\repos\MANTEMIENTO_PRODUCTO\bin\Debug\MANTEMIENTO_PRODUCTO.pdb
+C:\Users\ariel\source\repos\MANTEMIENTO_PRODUCTO\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\ariel\source\repos\MANTEMIENTO_PRODUCTO\bin\Debug\Capa_Entidad.dll
+C:\Users\ariel\source\repos\MANTEMIENTO_PRODUCTO\bin\Debug\Capa_Negocio.dll
+C:\Users\ariel\source\repos\MANTEMIENTO_PRODUCTO\bin\Debug\Capa_Datos.dll
+C:\Users\ariel\source\repos\MANTEMIENTO_PRODUCTO\bin\Debug\Capa_Entidad.pdb
+C:\Users\ariel\source\repos\MANTEMIENTO_PRODUCTO\bin\Debug\Capa_Negocio.pdb
+C:\Users\ariel\source\repos\MANTEMIENTO_PRODUCTO\bin\Debug\Capa_Datos.pdb
+C:\Users\ariel\source\repos\MANTEMIENTO_PRODUCTO\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\ariel\source\repos\MANTEMIENTO_PRODUCTO\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\ariel\source\repos\MANTEMIENTO_PRODUCTO\obj\Debug\MANTEMIENTO_PRODUCTO.frmCategoria.resources
+C:\Users\ariel\source\repos\MANTEMIENTO_PRODUCTO\obj\Debug\MANTEMIENTO_PRODUCTO.Properties.Resources.resources
+C:\Users\ariel\source\repos\MANTEMIENTO_PRODUCTO\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\ariel\source\repos\MANTEMIENTO_PRODUCTO\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\ariel\source\repos\MANTEMIENTO_PRODUCTO\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\ariel\source\repos\MANTEMIENTO_PRODUCTO\obj\Debug\MANTEMIENTO_PRODUCTO.exe
+C:\Users\ariel\source\repos\MANTEMIENTO_PRODUCTO\obj\Debug\MANTEMIENTO_PRODUCTO.pdb
+C:\Users\ariel\source\repos\Agenda_2PARCIAL\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\ariel\source\repos\Agenda_2PARCIAL\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\ariel\source\repos\Agenda_2PARCIAL\obj\Debug\MANTEMIENTO_PRODUCTO.frmCategoria.resources
+C:\Users\ariel\source\repos\Agenda_2PARCIAL\obj\Debug\MANTEMIENTO_PRODUCTO.Properties.Resources.resources
+C:\Users\ariel\source\repos\Agenda_2PARCIAL\obj\Debug\MANTEMIENTO_PRODUCTO.Registro_Nuevo.resources
+C:\Users\ariel\source\repos\Agenda_2PARCIAL\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\ariel\source\repos\Agenda_2PARCIAL\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\ariel\source\repos\Agenda_2PARCIAL\bin\Debug\MANTEMIENTO_PRODUCTO.exe.config
+C:\Users\ariel\source\repos\Agenda_2PARCIAL\bin\Debug\MANTEMIENTO_PRODUCTO.exe
+C:\Users\ariel\source\repos\Agenda_2PARCIAL\bin\Debug\MANTEMIENTO_PRODUCTO.pdb
+C:\Users\ariel\source\repos\Agenda_2PARCIAL\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\ariel\source\repos\Agenda_2PARCIAL\bin\Debug\Capa_Datos.dll
+C:\Users\ariel\source\repos\Agenda_2PARCIAL\bin\Debug\Capa_Entidad.dll
+C:\Users\ariel\source\repos\Agenda_2PARCIAL\bin\Debug\Capa_Negocio.dll
+C:\Users\ariel\source\repos\Agenda_2PARCIAL\bin\Debug\Capa_Datos.pdb
+C:\Users\ariel\source\repos\Agenda_2PARCIAL\bin\Debug\Capa_Entidad.pdb
+C:\Users\ariel\source\repos\Agenda_2PARCIAL\bin\Debug\Capa_Negocio.pdb
+C:\Users\ariel\source\repos\Agenda_2PARCIAL\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\ariel\source\repos\Agenda_2PARCIAL\obj\Debug\MANTEMIENTO_PRODUCTO.exe
+C:\Users\ariel\source\repos\Agenda_2PARCIAL\obj\Debug\MANTEMIENTO_PRODUCTO.pdb
+C:\Users\ariel\source\repos\Final prog3\bin\Debug\MANTEMIENTO_PRODUCTO.exe.config
+C:\Users\ariel\source\repos\Final prog3\bin\Debug\MANTEMIENTO_PRODUCTO.exe
+C:\Users\ariel\source\repos\Final prog3\bin\Debug\MANTEMIENTO_PRODUCTO.pdb
+C:\Users\ariel\source\repos\Final prog3\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\ariel\source\repos\Final prog3\bin\Debug\Capa_Datos.dll
+C:\Users\ariel\source\repos\Final prog3\bin\Debug\Capa_Entidad.dll
+C:\Users\ariel\source\repos\Final prog3\bin\Debug\Capa_Negocio.dll
+C:\Users\ariel\source\repos\Final prog3\bin\Debug\Capa_Datos.pdb
+C:\Users\ariel\source\repos\Final prog3\bin\Debug\Capa_Entidad.pdb
+C:\Users\ariel\source\repos\Final prog3\bin\Debug\Capa_Negocio.pdb
+C:\Users\ariel\source\repos\Final prog3\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\ariel\source\repos\Final prog3\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\ariel\source\repos\Final prog3\obj\Debug\MANTEMIENTO_PRODUCTO.frmCategoria.resources
+C:\Users\ariel\source\repos\Final prog3\obj\Debug\MANTEMIENTO_PRODUCTO.Properties.Resources.resources
+C:\Users\ariel\source\repos\Final prog3\obj\Debug\MANTEMIENTO_PRODUCTO.Registro_Nuevo.resources
+C:\Users\ariel\source\repos\Final prog3\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\ariel\source\repos\Final prog3\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\ariel\source\repos\Final prog3\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\ariel\source\repos\Final prog3\obj\Debug\MANTEMIENTO_PRODUCTO.exe
+C:\Users\ariel\source\repos\Final prog3\obj\Debug\MANTEMIENTO_PRODUCTO.pdb
